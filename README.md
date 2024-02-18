@@ -1,0 +1,1 @@
+It is a simple web application allows users to track their expenses in Indian Rupees (₹). Users can add, remove, and view their expenses, with a real-time update of the total expenses. It is built with HTML, CSS, and JavaScript.
